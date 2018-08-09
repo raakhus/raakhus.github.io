@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    border-color: red 1px;
+}
+
+.top-bar{
+    background: #ffffff ;
+    border:#cccccc 1px;
+}
+.name {
+    font-size: 50px;
+    background: #4aaaa5;
+}
+
+.main{
+    margin: none;
+    background: #ffffff;
+    border: #777777 1px;
+    
+}
+
+.photo{
+    transform: rotate(-90deg);
+    float: left;
+}
+
+.body{
+    background: #ffffff;
+    border: #dddddd;
+    width: 960px;
+    margin: auto
+
+}
+.footer{
+    height: 10px;
+    color: black;
+
+
+}
+.aboutme{
+    float: left;
+    color: #777777;
+    width: 960px;
+    font-size: 24px;
+    border-bottom: #777777 1px;
+
+
+}
+
+.buttons{
+    position: relative;
+    background: #dddddd;
+    float: right;
+    color:  #777777;
+    text-decoration: none;
+}
+.about{
+    text-decoration: none;
+}

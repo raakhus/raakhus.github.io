@@ -1,0 +1,39 @@
+.body{
+    width: 960px;
+    margin: auto;
+    background-image:url(C:\Users\Raakhus\Desktop\code\raakhus.github.io\images)
+
+}
+#name {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: #cccccc solid 2px;
+
+}
+
+h1 span{
+    background-color: #4aaaa5;
+
+}
+#buttons {
+    float: right;
+    font-size: 16px;
+    margin-top: -20px;
+}
+a {
+    color:#cccccc;
+
+}
+
+a:hover{
+    color: black;
+}
+
+#aboutme{
+    text-align: left;
+    width: 960px;
+    font-size: 20;
+
+}
